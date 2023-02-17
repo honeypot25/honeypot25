@@ -8,7 +8,7 @@
 </br>
 
 <div id="badges" align="center">
-  <h2>📫 Reach me</h2>
+  <h3>📫 Reach me</h3>
   <a href="https://linkedin.com/in/andrea-mura-0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -17,7 +17,7 @@
 
 <div id="icons" align="center">
   <p id="languages">
-    <h2>Programming and Markup languages</h2>
+    <h3>Programming and Markup languages</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,c,dart,java,cs" />
     </a>
@@ -32,30 +32,30 @@
   </p>
   </br>
 
-  <p id="frameworks">
-    <h2>Frameworks and Libraries</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter" />
-    </a>
-  </p>
-  </br>
-
-  <p id="databases">
-    <h2>Databases</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-    </a>
-  </p>
-  </br>
-
   <p id="software">
-    <h2>Software & Tools</h2>
+    <h3>Software & Tools</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,github,docker" />
     </a>
     </br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=md,latex" />
+    </a>
+  </p>
+  </br>
+
+  <p id="databases">
+    <h3>Databases</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+    </a>
+  </p>
+  </br>
+
+  <p id="frameworks">
+    <h3>Frameworks and Libraries</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flutter" />
     </a>
   </p>
   </br>
