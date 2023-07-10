@@ -16,19 +16,15 @@
   <p id="coding">
     <h3>Coding</h3>
     <a href="https://skillicons.dev">
-      <!-- dart,html,css,js -->
-      <img src="https://skillicons.dev/icons?i=py,c,java,cs,bash,regex" />
+      <!-- html,css,js -->
+      <img src="https://skillicons.dev/icons?i=py,c,kotlin,cs,bash,regex" />
     </a>
-    <!-- </br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=" />
-    </a> -->
   </p>
 
   <p id="software">
     <h3>Software & Tools</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,docker,md,latex" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,vim,androidstudio,git,docker,md,latex" />
   </p>
 
   <p id="databases">
@@ -39,12 +35,6 @@
   </p>
   </br>
 
-  <!-- <p id="frameworks">
-    <h3>Frameworks and Libraries</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter" />
-    </a>
-  </p> -->
 </div>
 </br>
 
