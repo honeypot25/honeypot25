@@ -1,8 +1,9 @@
 <div id="banner" align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
+  </br>
+  <!-- <a href="https://github.com/Akshay090/svg-banners">
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=>%20honeypot25&width=500&height=100" />
   </a>
-  </br>
+  </br> -->
 
   <a href="https://linkedin.com/in/andrea-mura-0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,7 +18,7 @@
     <h3>Coding</h3>
     <a href="https://skillicons.dev">
       <!-- html,css,js -->
-      <img src="https://skillicons.dev/icons?i=py,c,kotlin,cs,bash,regex" />
+      <img src="https://skillicons.dev/icons?i=py,c,kotlin,bash,regex" />
     </a>
   </p>
 
